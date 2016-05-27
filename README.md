@@ -2,6 +2,7 @@
 Simple java program that consumes data produced by sensor-emulator and stores them into Mongo database.It exposes REST based web services for reading the metrics and alerts stored in the database.
 
 ```
+Sample Response for RetrieveAll Metrics/ Metrics in range
 {
     {
          "value" : "150"
