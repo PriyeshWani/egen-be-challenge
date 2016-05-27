@@ -1,0 +1,5 @@
+io/egen/weighttracker/Alert.class
+io/egen/weighttracker/Metrics.class
+io/egen/weighttracker/MetricsService.class
+io/egen/weighttracker/MetricsRepository.class
+io/egen/weighttracker/WeightTracker.class
