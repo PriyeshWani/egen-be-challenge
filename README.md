@@ -51,4 +51,8 @@ Retrieve Alerts in range: curl -i -H "Accept: application/json" -H "Content-Type
     Retrieve Alerts in range: curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET "http://54.183.200.233:8080/retrieveAllAlertMessages?from=1464329497133&to=1464329508897"
 
 ```
+## Pending Things
+```
+I was facing some issues writing Integration Test using Mockito. Need to fix that. So unit tests for REST services are pending.
+```
 
