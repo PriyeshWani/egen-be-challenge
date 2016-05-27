@@ -16,7 +16,6 @@ import java.util.Map;
 /**
  * Created by priyeshkumarwani on 5/26/16.
  */
-@Controller
 @RestController
 public class MetricsService {
     @Autowired
